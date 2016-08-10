@@ -1,2 +1,1 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Deve ser colocado o arquivo log no diretório C:\devamil\log, o sistema irá processar e salvar o ranking na pasta C:\devamil\ranking
